@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Samuel and I'm a Systems Engineer from Colombia</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Alvaradito">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alvaradito&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alvaradito&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
 
